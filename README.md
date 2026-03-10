@@ -42,9 +42,9 @@ The editor currently recognizes and processes the following basic programming st
 
 ---
 ## Screenshots
-**Valid Syntax Example** ![Valid Syntax Example](screenshot1.png)
+**Valid Syntax Example** ![Valid Syntax Example](./screenshots/screenshot1.png)
 
-**Syntax Error Example** ![Syntax Error Example](screenshot2.png)
+**Syntax Error Example** ![Syntax Error Example](./screenshots/screenshot2.png)
 
 ---
 

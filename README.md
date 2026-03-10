@@ -38,7 +38,13 @@ The editor currently recognizes and processes the following basic programming st
 
 ## Project Links
 
-- **Live Demo:** You can test the application directly in your browser [here]().
+- **Live Demo:** You can test the application directly in your browser [here](https://mlkyzgt.github.io/real-time-syntax-highlighter/).
+
+---
+## Screenshots
+**Valid Syntax Example** ![Valid Syntax Example](screenshot1.png)
+
+**Syntax Error Example** ![Syntax Error Example](screenshot2.png)
 
 ---
 
